@@ -1,3 +1,35 @@
+# Q & A
+### Which text did you choose? Who wrote it? When? Where is it from?  
+I like wind. I went to look for poems about wind, and I picked this one from Discover Poetry.com (https://discoverpoetry.com/poems/wind-poems/):   
+  
+**"Who Has Seen the Wind?"**
+by Christina Georgina Rossetti  
+  
+Who has seen the wind?  
+Neither I nor you:  
+But when the leaves hang trembling,  
+The wind is passing through.  
+
+
+### How is the animation related to the text?  
+
+### What were some of the challenges when implementing this exercise?  
+
+### Include drawings and images of reference visualizations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # p5.js Template
 
 This is a README file that can be used to describe and document your assignment.
