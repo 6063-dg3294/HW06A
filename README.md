@@ -3,7 +3,7 @@
 I like wind. I went to look for poems about wind, and I picked this one from Discover Poetry.com (https://discoverpoetry.com/poems/wind-poems/):   
   
 **"Who Has Seen the Wind?"**
-by Christina Georgina Rossetti  
+by Christina Georgina Rossetti (the Victorian age)
   
 Who has seen the wind?  
 Neither I nor you:  
