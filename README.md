@@ -14,8 +14,19 @@ The wind is passing through.
 ### How is the animation related to the text?  
 
 ### What were some of the challenges when implementing this exercise?  
+I want to create the leaf movements using sin() and cosine. I went to https://www.youtube.com/watch?v=qWIcAWYm-aU learn this on YouTube. It was hard for me to understand angle increment and how to relate that with sin() when writing. I had to find examples of how people use the triangle stuffs to debug. 
+
+
 
 ### Include drawings and images of reference visualizations
+I had this initial attempt to create a basic scene of leaves waving in the wind. I used class(), function(), and shake().
+![image description](./1.png)
+Then, I want the leaves to be more concreate.   
+I drew this sketch with leaves that change its position & a eye in the bg.  
+![image description](./2.png)
+
+
+
 
 
 
