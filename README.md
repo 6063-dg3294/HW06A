@@ -12,9 +12,19 @@ The wind is passing through.
 
 
 ### How is the animation related to the text?  
+There is no text indicating wind, but the leaves are floating at different speeds all the time, as if the wind is always there.  
+Also, I created an eye in the middle to indicate gaze of us looking at the nature and vice versa. 
+
+
 
 ### What were some of the challenges when implementing this exercise?  
-I want to create the leaf movements using sin() and cosine. I went to https://www.youtube.com/watch?v=qWIcAWYm-aU learn this on YouTube. It was hard for me to understand angle increment and how to relate that with sin() when writing. I had to find examples of how people use the triangle stuffs to debug. 
+1. I want to create the leaf movements using sin() and cosine. I went to https://www.youtube.com/watch?v=qWIcAWYm-aU learn this on YouTube. It was hard for me to understand angle increment and how to relate that with sin() when writing. I had to find examples of how people use the triangle stuffs to debug. 
+
+2. My coding abilities can only take me this far to create a still eye. I wanted it to blink somehow, but I failed to implement it. I might try to advance it in my midterm project. 
+
+3. I don't find the image very well-made. It might be because text design are harder without shapes, but I'm sure there are people doing better then me (but there always will be). It actully took me almost a day to study and create things like angle change and building class(). 
+
+
 
 
 
@@ -31,6 +41,9 @@ To complete a pupil in the middle, I used sin() and angle again to create the sh
 Double layer it is. 
 ![image description](./4.png)
 
+#### Optimization
+At one point, I thought about adding some still tree trunks. However, my leaves are so thin and the effect would not be good with loose trunks.   
+![image description](./6.png)
 
 
 
@@ -47,63 +60,8 @@ Double layer it is.
 
 
 
-# p5.js Template
-
-This is a README file that can be used to describe and document your assignment.
-
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
-
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
 
 
-Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
 
 
-Image on repo:  
-![image description](./file-name.jpg)
 
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
