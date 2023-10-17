@@ -7,7 +7,7 @@ function setup() {
   for (let i = 0; i < 1000; i += 50){
     parameter.push(i)
   }
-  for (let i = 0; i < 300; i++){
+  for (let i = 0; i < 200; i++){
     leaves.push(new Leaf(random(width), random(height)));
   }
 
@@ -23,7 +23,7 @@ function setup() {
 function draw() {
   background(255);
   // draw the pupil
-  fill(232, 214, 189)
+  fill(232, 204, 189)
   drawIris(width / 2, height / 2, 400);
   drawIris(width / 2, height / 2, 450 )
   drawIris(width / 2, height / 2, 180 )

@@ -24,6 +24,12 @@ I had this initial attempt to create a basic scene of leaves waving in the wind.
 Then, I want the leaves to be more concreate.   
 I drew this sketch with leaves that change its position & a eye in the bg.  
 ![image description](./2.png)
+Regarding the eye, I wanted it to be wise. I used this image as a reference. 
+![image description](./pupil.jpeg)
+To complete a pupil in the middle, I used sin() and angle again to create the shape made up of "X."
+![image description](./3.png)
+Double layer it is. 
+![image description](./4.png)
 
 
 
